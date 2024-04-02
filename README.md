@@ -1,5 +1,4 @@
 # Diwali-Sales-Analysis-Project-
-# Diwali Sales Analysis Project
 
 ## Objectives
 - Analyze Diwali sales based on different parameters such as products, gender, state, age, occupation, and zone area of the customers.
